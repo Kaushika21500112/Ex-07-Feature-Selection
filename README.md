@@ -206,15 +206,24 @@ plt.show()
 ```
 
 # OUPUT
-# Data Preprocessing before Feature Selection
+# Data Preprocessing before Feature Selection:
+## Initial Dataset:
 ![](o1.png)
+## Data checking and cleaning:
 ![](o2.png)
+
 ![](o3.png)
+## Outlier Removal:
 ![](o4.png)
+
 ![](o5.png)
+## Feature Enoding:
 ![](o6.png)
+## Feature Scaling:
 ![](o7.png)
+## Feature Transformations:
 ![](o8.png)
+
 ![](o9.png)
 # Feature Selection
 # Filter Method
@@ -228,6 +237,7 @@ Wrapper Method is an iterative and computationally expensive process but it is m
 There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
 # Backward Elimination:
 ![](o12.png)
+
 ![](o13.png)
 ## RFE (Recursive Feature Elimination):
 ![](o14.png)
